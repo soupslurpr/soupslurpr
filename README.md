@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm soupslurpr. I'm on matrix if you need to contact me at
+Hi, I'm soupslurpr. I'm on Matrix if you need to contact me at
 @soupslurpr:matrix.org
