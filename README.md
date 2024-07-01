@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm soupslurpr. I'm on Matrix if you need to contact me at
+The matrix space listing the spaces for my projects can be found at https://matrix.to/#/#soupslurpr:matrix.org
+
+I'm on Matrix if you need to contact me at
 @soupslurpr:matrix.org
