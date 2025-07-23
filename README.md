@@ -19,3 +19,5 @@ The matrix space listing the spaces for my projects can be found at https://matr
 
 I'm on Matrix if you need to contact me at
 @soupslurpr:matrix.org
+
+I'm @soupslurpr on Discord.
