@@ -1,5 +1,3 @@
 ### Hello 👋
 
-I'm on Matrix at @soupslurpr:matrix.org if you need to contact me.
-
-I'm @soupslurpr on Discord.
+I'm @soupslurpr on Discord and @soupslurpr:matrix.org on Matrix.
